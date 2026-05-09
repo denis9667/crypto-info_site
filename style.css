@@ -1,6 +1,14 @@
+html {
+    color: white;
+    background-color: black;
+}
+ 
 h1 {
+    
     text-align: center;
 }
+
+
 
 .links {
     position: fixed;
@@ -8,3 +16,4 @@ h1 {
     margin-left: 90%;
     background-color: blueviolet;
 }
+
